@@ -1,0 +1,2 @@
+:HL["/gradient-generator/_next/static/chunks/6a930fe6546bf725.css","style"]
+0:{"buildId":"25TIjfBgiAZtxy8O5pe-F","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
